@@ -1,0 +1,11 @@
+product_id,product_name,category,price
+P101,Laptop,Electronics,1200
+P102,Mouse,Electronics,25
+P103,Keyboard,Electronics,45
+P104,Monitor,Electronics,250
+P105,Office Chair,Furniture,180
+P106,Desk,Furniture,350
+P107,Notebook,Stationery,5
+P108,Printer,Electronics,220
+P109,Pen Pack,Stationery,12
+P110,Tablet,Electronics,450

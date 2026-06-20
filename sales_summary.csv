@@ -1,0 +1,15 @@
+order_id,customer_id,product_id,quantity,order_date,product_name,category,price,revenue
+5001,1001,P101,1,2025-01-10,Laptop,Electronics,1200,1200
+5002,1002,P102,3,2025-01-11,Mouse,Electronics,25,75
+5003,1003,P103,2,2025-01-11,Keyboard,Electronics,45,90
+5004,1004,P104,1,2025-01-12,Monitor,Electronics,250,250
+5005,1005,P105,2,2025-01-12,Office Chair,Furniture,180,360
+5006,1006,P106,1,2025-01-13,Desk,Furniture,350,350
+5007,1007,P107,10,2025-01-13,Notebook,Stationery,5,50
+5008,1008,P108,1,2025-01-14,Printer,Electronics,220,220
+5009,1009,P109,5,2025-01-14,Pen Pack,Stationery,12,60
+5010,1010,P110,2,2025-01-15,Tablet,Electronics,450,900
+5011,1001,P102,2,2025-01-15,Mouse,Electronics,25,50
+5012,1002,P103,1,2025-01-16,Keyboard,Electronics,45,45
+5013,1003,P104,2,2025-01-16,Monitor,Electronics,250,500
+5014,1004,P105,1,2025-01-17,Office Chair,Furniture,180,180

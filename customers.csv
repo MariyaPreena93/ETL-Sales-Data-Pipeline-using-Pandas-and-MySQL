@@ -1,0 +1,14 @@
+customer_id,customer_name,city,email
+1001,John Smith,Toronto,john@gmail.com
+1002,Mary Joseph,Markham,mary@gmail.com
+1003,David Lee,Mississauga,david@gmail.com
+1004,Sarah Khan,Scarborough,sarah@gmail.com
+1005,Athul Raj,Toronto,athul@gmail.com
+1006,Reena Mathew,Markham,reena@gmail.com
+1007,Rahul Nair,Mississauga,rahul@gmail.com
+1008,Meha George,Toronto,
+1009,Soniya Thomas,Scarborough,soniya@gmail.com
+1010,Ram Kumar,Toronto,ram@gmail.com
+1010,Ram Kumar,Toronto,ram@gmail.com
+1002,Mary Joseph,Markham,mary@gmail.com
+1011,Raj Amari,,rajamari@gmail.com
